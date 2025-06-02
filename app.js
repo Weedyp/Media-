@@ -14,5 +14,5 @@ arr.forEach(function(elem){
     <h6>3:10</h6>
  </div>`
 })
-//hello
+
 document.querySelector(".all-songs").innerHTML=clutter
